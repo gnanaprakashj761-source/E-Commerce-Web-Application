@@ -57,7 +57,7 @@ Change this password before deploying.
 ## Project Structure
 
 ## Live Demo
-
+ https://gnanaprakashj761-source.github.io/E-Commerce-Web-Application/
 
 ## Learning Outcomes
 Hands-on experience building a complex full-stack application with real-world features: authentication, role-based access, REST APIs, database integration, and order management.
