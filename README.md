@@ -57,7 +57,7 @@ Change this password before deploying.
 ## Project Structure
 
 ## Live Demo
- https://janarthanan-8.github.io/ecommerce-web-application/
+
 
 ## Learning Outcomes
 Hands-on experience building a complex full-stack application with real-world features: authentication, role-based access, REST APIs, database integration, and order management.
